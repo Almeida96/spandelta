@@ -1,0 +1,13 @@
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+.env
+.venv/
+__pycache__/
+*.pyc

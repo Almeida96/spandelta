@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "spandelta": {
+      "command": "java",
+      "args": [
+        "-cp", "/absolute/path/to/spandelta-0.1.0/lib/*",
+        "io.github.almeida96.spandelta.MainKt", "mcp",
+        "--db", "/absolute/path/to/traces.db"
+      ]
+    }
+  }
+}
